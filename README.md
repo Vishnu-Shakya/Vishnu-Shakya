@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Shakya</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🔭I’m currently learning **ReactJs** -
+- 🔭I’m currently learning **NextJs** -
 -  ☏ Email me on **vishnushakya2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
